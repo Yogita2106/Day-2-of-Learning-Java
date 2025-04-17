@@ -10,10 +10,10 @@ Take an integer input from the user and check:
  (c)zero.
  Loop & Pattern Printing:-
  Print the following pattern using a loop:
-*
-* *
-* * *
-* * * *
+ *
+ * *
+ * * *
+ * * * *
 Pattern Matching (String Matching):-
  Take two strings as input from the user. Check if the second string is a substring of the first string. Print "Match Found" or "No Match".
 Advanced Pattern Printing (Nested Loops):-
